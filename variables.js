@@ -1,0 +1,10 @@
+let nameOfTheGame = "";
+let gameDescription = "";
+let gameVersion = "" ;
+let theNameOfTheMainCharacter = "";
+let nameOfTheGameDev = "";
+let programmingLanguageGame = "";
+let programmingVersion = "";
+let nameOfTheMap = "";
+let gameDevWebsite = "";
+let interfaceLanguage = "";
